@@ -1,0 +1,582 @@
+[
+  {
+    "id": 1,
+    "jokeText": "Why don't scientists trust atoms? Because they make up everything!",
+    "jokeType": "Science"
+  },
+  {
+    "id": 2,
+    "jokeText": "Why was the math book sad? It had too many problems.",
+    "jokeType": "Math"
+  },
+  {
+    "id": 3,
+    "jokeText": "Why did the computer go to the doctor? It had a virus!",
+    "jokeType": "Technology"
+  },
+  {
+    "id": 4,
+    "jokeText": "Why don't skeletons fight each other? They don't have the guts.",
+    "jokeType": "Halloween"
+  },
+  {
+    "id": 5,
+    "jokeText": "Why did the scarecrow win an award? Because he was outstanding in his field!",
+    "jokeType": "Farm"
+  },
+  {
+    "id": 6,
+    "jokeText": "Why don't some couples go to the gym? Because some relationships don't work out.",
+    "jokeType": "Relationship"
+  },
+  {
+    "id": 7,
+    "jokeText": "Why did the bicycle fall over? It was two-tired.",
+    "jokeType": "Transportation"
+  },
+  {
+    "id": 8,
+    "jokeText": "Why don't you ever see elephants hiding in trees? Because they're so good at it.",
+    "jokeType": "Animals"
+  },
+  {
+    "id": 9,
+    "jokeText": "Why did the coffee file a police report? It got mugged.",
+    "jokeType": "Food"
+  },
+  {
+    "id": 10,
+    "jokeText": "Why was the broom late? It swept in.",
+    "jokeType": "Household"
+  },
+  {
+    "id": 11,
+    "jokeText": "Why did the tomato turn red? Because it saw the salad dressing!",
+    "jokeType": "Food"
+  },
+  {
+    "id": 12,
+    "jokeText": "What do you call fake spaghetti? An impasta!",
+    "jokeType": "Food"
+  },
+  {
+    "id": 13,
+    "jokeText": "Why was the math teacher always late to work? She took the rhombus.",
+    "jokeType": "Math"
+  },
+  {
+    "id": 14,
+    "jokeText": "Why did the golfer bring an extra pair of pants? In case he got a hole in one.",
+    "jokeType": "Sports"
+  },
+  {
+    "id": 15,
+    "jokeText": "Why don't eggs tell jokes? They'd crack each other up.",
+    "jokeType": "Food"
+  },
+  {
+    "id": 16,
+    "jokeText": "Why don't oysters donate to charity? Because they're shellfish.",
+    "jokeType": "Seafood"
+  },
+  {
+    "id": 17,
+    "jokeText": "Why did the music teacher go to jail? She got caught with too many notes.",
+    "jokeType": "Music"
+  },
+  {
+    "id": 18,
+    "jokeText": "What do you call cheese that isn't yours? Nacho cheese.",
+    "jokeType": "Food"
+  },
+  {
+    "id": 19,
+    "jokeText": "Why did the stadium get hot after the game? All the fans left.",
+    "jokeType": "Sports"
+  },
+  {
+    "id": 20,
+    "jokeText": "What’s orange and sounds like a parrot? A carrot.",
+    "jokeType": "Food"
+  },
+  {
+    "id": 21,
+    "jokeText": "Why did the chicken join a band? Because it had the drumsticks.",
+    "jokeType": "Animals"
+  },
+  {
+    "id": 22,
+    "jokeText": "Why don't some fish play piano? Because you can't tuna fish.",
+    "jokeType": "Music"
+  },
+  {
+    "id": 23,
+    "jokeText": "What did one wall say to the other? I'll meet you at the corner.",
+    "jokeType": "Construction"
+  },
+  {
+    "id": 24,
+    "jokeText": "Why did the golfer bring two pairs of pants? In case he got a hole in one.",
+    "jokeType": "Sports"
+  },
+  {
+    "id": 25,
+    "jokeText": "Why did the math book look sad? Because it had too many problems.",
+    "jokeType": "Math"
+  },
+  {
+    "id": 26,
+    "jokeText": "Why don’t scientists trust stairs? Because they’re always up to something.",
+    "jokeType": "Science"
+  },
+  {
+    "id": 27,
+    "jokeText": "Why did the bike fall over? It was two-tired.",
+    "jokeType": "Transportation"
+  },
+  {
+    "id": 28,
+    "jokeText": "Why don’t some people eat clocks? It’s too time-consuming.",
+    "jokeType": "Time"
+  },
+  {
+    "id": 29,
+    "jokeText": "Why did the computer go to the doctor? It had a bad case of bugs.",
+    "jokeType": "Technology"
+  },
+  {
+    "id": 30,
+    "jokeText": "Why was the cookie sad? Because its mom was a wafer so long.",
+    "jokeType": "Food"
+  },
+  {
+    "id": 31,
+    "jokeText": "Why don't skeletons fight each other? They don't have the guts.",
+    "jokeType": "Halloween"
+  },
+  {
+    "id": 32,
+    "jokeText": "Why did the football coach go to the bank? To get his quarterback.",
+    "jokeType": "Sports"
+  },
+  {
+    "id": 33,
+    "jokeText": "What do you call a bear with no teeth? A gummy bear.",
+    "jokeType": "Animals"
+  },
+  {
+    "id": 34,
+    "jokeText": "Why do cows wear bells? Because their horns don't work.",
+    "jokeType": "Farm"
+  },
+  {
+    "id": 35,
+    "jokeText": "Why was the belt arrested? It held up a pair of pants.",
+    "jokeType": "Clothing"
+  },
+  {
+    "id": 36,
+    "jokeText": "Why don't you ever see pigs hiding in trees? Because they're so good at it.",
+    "jokeType": "Animals"
+  },
+  {
+    "id": 37,
+    "jokeText": "Why did the man put his money in the blender? He wanted to make liquid assets.",
+    "jokeType": "Finance"
+  },
+  {
+    "id": 38,
+    "jokeText": "Why was the big cat disqualified from the race? Because it was a cheetah.",
+    "jokeType": "Animals"
+  },
+  {
+    "id": 39,
+    "jokeText": "Why did the banana go to the doctor? Because it wasn't peeling well.",
+    "jokeType": "Food"
+  },
+  {
+    "id": 40,
+    "jokeText": "Why was the math book always worried? It had too many variables.",
+    "jokeType": "Math"
+  },
+  {
+    "id": 41,
+    "jokeText": "Why don't secrets stay in banks? They always get leaked.",
+    "jokeType": "Finance"
+  },
+  {
+    "id": 42,
+    "jokeText": "Why do seagulls fly over the sea? Because if they flew over the bay, they'd be bagels.",
+    "jokeType": "Animals"
+  },
+  {
+    "id": 43,
+    "jokeText": "Why did the cow become an astronaut? It wanted to see the Milky Way.",
+    "jokeType": "Animals"
+  },
+  {
+    "id": 44,
+    "jokeText": "Why did the calendar go to therapy? It had too many dates.",
+    "jokeType": "Time"
+  },
+  {
+    "id": 45,
+    "jokeText": "Why was the broom always late? It swept in.",
+    "jokeType": "Household"
+  },
+  {
+    "id": 46,
+    "jokeText": "Why don't some people trust stairs? They are always up to something.",
+    "jokeType": "Household"
+  },
+  {
+    "id": 47,
+    "jokeText": "Why did the fisherman get kicked out of school? Because he was caught hooking.",
+    "jokeType": "Fishing"
+  },
+  {
+    "id": 48,
+    "jokeText": "Why was the musician arrested? He got caught in a clef.",
+    "jokeType": "Music"
+  },
+  {
+    "id": 49,
+    "jokeText": "Why did the snowman call his dog Frost? Because Frost bites.",
+    "jokeType": "Winter"
+  },
+  {
+    "id": 50,
+    "jokeText": "Why don't vampires attack Taylor Swift? Because she has bad blood.",
+    "jokeType": "Halloween"
+  },
+  {
+    "id": 51,
+    "jokeText": "Why did the student eat his homework? Because his teacher said it was a piece of cake.",
+    "jokeType": "School"
+  },
+  {
+    "id": 52,
+    "jokeText": "Why was the tomato blushing? Because it saw the salad dressing!",
+    "jokeType": "Food"
+  },
+  {
+    "id": 53,
+    "jokeText": "Why did the banana go to the party? Because it was a-peeling.",
+    "jokeType": "Food"
+  },
+  {
+    "id": 54,
+    "jokeText": "Why don't ants get sick? Because they have tiny ant-bodies.",
+    "jokeType": "Animals"
+  },
+  {
+    "id": 55,
+    "jokeText": "Why did the pirate go to school? To improve his arrr-ticulation.",
+    "jokeType": "Pirates"
+  },
+  {
+    "id": 56,
+    "jokeText": "Why did the golfer bring two pairs of socks? In case he got a hole in one.",
+    "jokeType": "Sports"
+  },
+  {
+    "id": 57,
+    "jokeText": "Why did the electrician break up with his girlfriend? There was no spark.",
+    "jokeType": "Relationships"
+  },
+  {
+    "id": 58,
+    "jokeText": "Why don't elephants use computers? They're afraid of the mouse.",
+    "jokeType": "Technology"
+  },
+  {
+    "id": 59,
+    "jokeText": "Why don't zombies eat clowns? Because they taste funny.",
+    "jokeType": "Halloween"
+  },
+  {
+    "id": 60,
+    "jokeText": "Why did the baker go to therapy? Because he was having too much dough.",
+    "jokeType": "Food"
+  },
+  {
+    "id": 61,
+    "jokeText": "Why did the scarecrow become a successful politician? Because he was outstanding in his field.",
+    "jokeType": "Farm"
+  },
+  {
+    "id": 62,
+    "jokeText": "Why don't scientists trust atoms? Because they make up everything.",
+    "jokeType": "Science"
+  },
+  {
+    "id": 63,
+    "jokeText": "Why did the coffee file a police report? It got mugged.",
+    "jokeType": "Food"
+  },
+  {
+    "id": 64,
+    "jokeText": "Why did the bicycle stand up by itself? Because it was two-tired.",
+    "jokeType": "Transportation"
+  },
+  {
+    "id": 65,
+    "jokeText": "Why did the computer go broke? It had too many windows.",
+    "jokeType": "Technology"
+  },
+  {
+    "id": 66,
+    "jokeText": "Why did the tomato turn red? Because it saw the salad dressing.",
+    "jokeType": "Food"
+  },
+  {
+    "id": 67,
+    "jokeText": "Why was the math book sad? Because it had too many problems.",
+    "jokeType": "Math"
+  },
+  {
+    "id": 68,
+    "jokeText": "Why did the music teacher need a ladder? To reach the high notes.",
+    "jokeType": "Music"
+  },
+  {
+    "id": 69,
+    "jokeText": "Why don't oysters share their pearls? Because they're shellfish.",
+    "jokeType": "Seafood"
+  },
+  {
+    "id": 70,
+    "jokeText": "Why did the football go to school? To get kicked out.",
+    "jokeType": "Sports"
+  },
+  {
+    "id": 71,
+    "jokeText": "Why did the cookie go to the doctor? Because it felt crummy.",
+    "jokeType": "Food"
+  },
+  {
+    "id": 72,
+    "jokeText": "Why did the painter go broke? He couldn't draw a salary.",
+    "jokeType": "Art"
+  },
+  {
+    "id": 73,
+    "jokeText": "Why do bees have sticky hair? Because they use honeycombs.",
+    "jokeType": "Animals"
+  },
+  {
+    "id": 74,
+    "jokeText": "Why did the golfer wear two pairs of pants? In case he got a hole in one.",
+    "jokeType": "Sports"
+  },
+  {
+    "id": 75,
+    "jokeText": "Why don't programmers like nature? It has too many bugs.",
+    "jokeType": "Technology"
+  },
+  {
+    "id": 76,
+    "jokeText": "Why did the teacher wear sunglasses? Because her students were so bright.",
+    "jokeType": "School"
+  },
+  {
+    "id": 77,
+    "jokeText": "Why did the farmer win an award? Because his crops were outstanding in their field.",
+    "jokeType": "Farm"
+  },
+  {
+    "id": 78,
+    "jokeText": "Why don't elephants chew gum? They do, just not in public.",
+    "jokeType": "Animals"
+  },
+  {
+    "id": 79,
+    "jokeText": "Why did the skeleton go to the party alone? He had no body to go with him.",
+    "jokeType": "Halloween"
+  },
+  {
+    "id": 80,
+    "jokeText": "Why did the banker switch careers? He lost interest.",
+    "jokeType": "Finance"
+  },
+  {
+    "id": 81,
+    "jokeText": "Why did the lettuce blush? Because it saw the salad dressing.",
+    "jokeType": "Food"
+  },
+  {
+    "id": 82,
+    "jokeText": "Why did the photograph go to jail? Because it was framed.",
+    "jokeType": "Photography"
+  },
+  {
+    "id": 83,
+    "jokeText": "Why don't some couples go to the gym? Because some relationships don't work out.",
+    "jokeType": "Relationships"
+  },
+  {
+    "id": 84,
+    "jokeText": "Why did the calendar get excited? Its days were numbered.",
+    "jokeType": "Time"
+  },
+  {
+    "id": 85,
+    "jokeText": "Why did the astronaut break up with his girlfriend? He needed some space.",
+    "jokeType": "Space"
+  },
+  {
+    "id": 86,
+    "jokeText": "Why did the tree go to the dentist? It needed a root canal.",
+    "jokeType": "Nature"
+  },
+  {
+    "id": 87,
+    "jokeText": "Why was the stadium so cool? Because it was filled with fans.",
+    "jokeType": "Sports"
+  },
+  {
+    "id": 88,
+    "jokeText": "Why did the chef go to art school? To learn how to draw a good roast.",
+    "jokeType": "Food"
+  },
+  {
+    "id": 89,
+    "jokeText": "Why did the barber win the race? Because he took a short cut.",
+    "jokeType": "Occupations"
+  },
+  {
+    "id": 90,
+    "jokeText": "Why did the candle quit his job? He felt burned out.",
+    "jokeType": "Household"
+  },
+  {
+    "id": 91,
+    "jokeText": "Why don’t some people like the ocean? They find it too fishy.",
+    "jokeType": "Nature"
+  },
+  {
+    "id": 92,
+    "jokeText": "Why did the scarecrow keep getting promoted? He was outstanding in his field.",
+    "jokeType": "Farm"
+  },
+  {
+    "id": 93,
+    "jokeText": "Why was the big cat disqualified from the race? It was a cheetah.",
+    "jokeType": "Animals"
+  },
+  {
+    "id": 94,
+    "jokeText": "Why do seagulls fly over the sea? If they flew over the bay, they'd be bagels.",
+    "jokeType": "Animals"
+  },
+  {
+    "id": 95,
+    "jokeText": "Why was the broom always late? It swept in.",
+    "jokeType": "Household"
+  },
+  {
+    "id": 96,
+    "jokeText": "Why did the music teacher need a ladder? To reach the high notes.",
+    "jokeType": "Music"
+  },
+  {
+    "id": 97,
+    "jokeText": "Why was the baseball team a great band? They had great pitches.",
+    "jokeType": "Sports"
+  },
+  {
+    "id": 98,
+    "jokeText": "Why did the belt go to jail? It held up a pair of pants.",
+    "jokeType": "Clothing"
+  },
+  {
+    "id": 99,
+    "jokeText": "Why did the golfer bring two pairs of socks? In case he got a hole in one.",
+    "jokeType": "Sports"
+  },
+  {
+    "id": 100,
+    "jokeText": "Why did the dog sit in the shade? Because he didn’t want to be a hot dog.",
+    "jokeType": "Animals"
+  },
+  {
+    "id": 101,
+    "jokeText": "Why do trees seem suspicious on sunny days? They’re a bit shady.",
+    "jokeType": "Nature"
+  },
+  {
+    "id": 102,
+    "jokeText": "Why don’t you ever see elephants hiding in trees? Because they’re so good at it.",
+    "jokeType": "Animals"
+  },
+  {
+    "id": 103,
+    "jokeText": "Why did the tomato turn red? Because it saw the salad dressing.",
+    "jokeType": "Food"
+  },
+  {
+    "id": 104,
+    "jokeText": "Why did the banker switch careers? He lost interest.",
+    "jokeType": "Finance"
+  },
+  {
+    "id": 105,
+    "jokeText": "Why was the sand wet? Because the seaweed.",
+    "jokeType": "Nature"
+  },
+  {
+    "id": 106,
+    "jokeText": "Why don’t mountains get cold? They wear snow caps.",
+    "jokeType": "Nature"
+  },
+  {
+    "id": 107,
+    "jokeText": "Why did the banana go out with the prune? Because it couldn’t find a date.",
+    "jokeType": "Food"
+  },
+  {
+    "id": 108,
+    "jokeText": "Why don’t some fish play basketball? Because they’re afraid of the net.",
+    "jokeType": "Sports"
+  },
+  {
+    "id": 109,
+    "jokeText": "Why did the vampire get a job at the blood bank? He wanted to make a withdrawal.",
+    "jokeType": "Halloween"
+  },
+  {
+    "id": 110,
+    "jokeText": "Why did the computer go to the doctor? It had a virus.",
+    "jokeType": "Technology"
+  },
+  {
+    "id": 111,
+    "jokeText": "Why don’t some people trust stairs? They’re always up to something.",
+    "jokeType": "Household"
+  },
+  {
+    "id": 112,
+    "jokeText": "Why did the cowboy get a dachshund? He wanted to get a long little doggie.",
+    "jokeType": "Animals"
+  },
+  {
+    "id": 113,
+    "jokeText": "Why don’t some flowers ride bikes? They lost their petals.",
+    "jokeType": "Nature"
+  },
+  {
+    "id": 114,
+    "jokeText": "Why did the frog call a mechanic? It had a jumpy car.",
+    "jokeType": "Transportation"
+  },
+  {
+    "id": 115,
+    "jokeText": "Why was the belt sent to jail? It held up a pair of pants.",
+    "jokeType": "Clothing"
+  },
+  {
+    "id": 116,
+    "jokeText": "Why did the tree go to therapy? It needed to branch out.",
+    "jokeType": "Nature"
+  }
+]
